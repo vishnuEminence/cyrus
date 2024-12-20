@@ -1,8 +1,0 @@
-langchain 
-langchain_openai 
-praw 
-openai 
-python-dotenv
-tweepy
-motor
-tweepy
